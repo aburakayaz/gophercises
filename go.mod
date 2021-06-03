@@ -1,3 +1,3 @@
-module leap
+module gophercises
 
 go 1.13
